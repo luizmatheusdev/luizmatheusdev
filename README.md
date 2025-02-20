@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizmatheusdev&show_icons=true&theme=great-gatsby)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizmatheusdev&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmatheusdev&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
