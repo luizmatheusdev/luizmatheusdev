@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizmatheusdev&show_icons=true&theme=great-gatsby)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizmatheusdev&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luizmatheusdev&repo=github-readme-stats&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
